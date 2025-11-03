@@ -8,6 +8,7 @@ public class Bill3 {
 		int price = Integer.parseInt(args[3]);  
 		double split = price / 3;
 		Math.ceil(split);
+		// hsfdf
 		System.out.println("Dear " + name3 + ", " + name2 + ", " + "and " + name1 + ": pay " + split + " Shekels each ");
 	}
 }
